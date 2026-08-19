@@ -4,7 +4,7 @@ This public repository contains signed release files and update metadata for **3
 
 ## Current version
 
-Version **2.0.0**
+Version **2.0.1**
 
 The Windows installer is signed by **Yorgelis Echavarria**. This repository does not contain the application's source code, user settings, PDFs, or client information.
 
