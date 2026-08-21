@@ -1,5 +1,5 @@
 {
-  "version": "2.0.1",
-  "download_url": "https://github.com/Yorgelis-Echavarria/30-day-demand-renamer-releases/releases/tag/v2.0.1",
-  "release_notes": "Fixes Dark mode, reuses verified Preview results for Rename, and prevents per-PDF helper windows from flashing."
+  "version": "2.0.2",
+  "download_url": "https://github.com/Yorgelis-Echavarria/30-day-demand-renamer-releases/releases/tag/v2.0.2",
+  "release_notes": "Introduces the DemandFlow header and improves dialog reliability, Preview verification, settings safety, and the Preview-to-Rename workflow."
 }
